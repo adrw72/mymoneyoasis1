@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MyMoney Oasis by Bank of America</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #004b87;
+            color: white;
+            padding: 1em;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            color: #004b87;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        .section img {
+            width: 100%;
+            max-width: 600px;
+            height: auto;
+        }
+        .cta {
+            display: block;
+            width: 200px;
+            margin: 20px auto;
+            padding: 10px;
+            text-align: center;
+            background-color: #004b87;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        footer {
+            background-color: #004b87;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+        }
+        @media (min-width: 600px) {
+            .section {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+            }
+            .section div {
+                flex: 1;
+                margin: 0 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Welcome to MyMoney Oasis by Bank of America</h1>
+    <h2>Transforming the Future of Finance</h2>
+</header>
+
+<main>
+    <section class="section">
+        <div>
+            <h3>Discover Financial Serenity</h3>
+            <p>MyMoney Oasis is more than a banking app—it's a comprehensive digital sanctuary designed to transform your financial well-being. With our innovative platform, you can unlock new opportunities, gain personalized insights, and achieve true financial peace of mind.</p>
+        </div>
+        <div>
+            <img src="https://yourusername.github.io/yourrepository/serene_landscape.jpg" alt="Serene Landscape">
+        </div>
+    </section>
+
+    <section class="section">
+        <div>
+            <h3>Immersive Virtual Environment</h3>
+            <p>Step into a world where you can visualize your financial future. Our immersive virtual environment offers interactive simulations that help you understand and plan your financial journey like never before.</p>
+        </div>
+        <div>
+            <img src="https://yourusername.github.io/yourrepository/virtual_environment.jpg" alt="Virtual Environment">
+        </div>
+    </section>
+
+    <section class="section">
+        <div>
+            <img src="https://yourusername.github.io/yourrepository/ai_advisor.jpg" alt="AI Advisor">
+        </div>
+        <div>
+            <h3>AI-Powered Financial Advisors</h3>
+            <p>Receive personalized advice from our AI-powered financial advisors. Whether you're planning for retirement, saving for a home, or investing in the stock market, our AI tools provide insights tailored to your unique financial situation.</p>
+        </div>
+    </section>
+
+    <section class="section">
+        <div>
+            <h3>Personalized Goal-Setting Tools</h3>
+            <p>Set and track your financial goals with ease. Our goal-setting tools help you stay focused and motivated, ensuring you reach your financial milestones efficiently.</p>
+        </div>
+        <div>
+            <img src="https://yourusername.github.io/yourrepository/goal_setting.jpg" alt="Goal Setting">
+        </div>
+    </section>
+
+    <section class="section">
+        <div>
+            <img src="https://yourusername.github.io/yourrepository/vr_investment.jpg" alt="VR Investment">
+        </div>
+        <div>
+            <h3>Virtual Reality Investment Experiences</h3>
+            <p>Explore investment opportunities in a whole new way with our virtual reality experiences. Understand the potential outcomes of your investments before making decisions.</p>
+        </div>
+    </section>
+
+    <section class="section">
+        <div>
+            <h3>Personalized Financial Coaching</h3>
+            <p>Get one-on-one support from our expert financial coaches. Our personalized coaching sessions are designed to help you navigate complex financial landscapes and make informed decisions.</p>
+        </div>
+        <div>
+            <img src="https://yourusername.github.io/yourrepository/financial_coaching.jpg" alt="Financial Coaching">
+        </div>
+    </section>
+
+    <section class="section">
+        <div>
+            <img src="https://yourusername.github.io/yourrepository/education_programs.jpg" alt="Education Programs">
+        </div>
+        <div>
+            <h3>Community-Driven Education Programs</h3>
+            <p>Join our community-driven financial education programs. Learn from industry experts and peers to enhance your financial knowledge and skills.</p>
+        </div>
+    </section>
+
+    <section class="section">
+        <div>
+            <h3>Exclusive Access to Financial Experts</h3>
+            <p>Gain exclusive access to leading financial experts. Our network of professionals is here to provide you with the insights and advice you need to succeed.</p>
+        </div>
+        <div>
+            <img src="https://yourusername.github.io/yourrepository/financial_experts.jpg" alt="Financial Experts">
+        </div>
+    </section>
+
+    <section class="section">
+        <div>
+            <img src="https://yourusername.github.io/yourrepository/investment_opportunities.jpg" alt="Investment Opportunities">
+        </div>
+        <div>
+            <h3>Tailored Investment Opportunities</h3>
+            <p>Discover investment opportunities tailored to your goals and risk tolerance. Our platform offers a range of options to help you grow your wealth effectively.</p>
+        </div>
+    </section>
+
+    <section class="section">
+        <div>
+            <h3>Find the Right Plan for You</h3>
+            <p>Whether you're just starting out or you're an experienced investor, MyMoney Oasis has a subscription plan that fits your needs. Choose from various membership levels to access exclusive benefits and features.</p>
+            <ul>
+                <li><strong>Basic Plan:</strong> Ideal for beginners looking to gain control over their finances.</li>
+                <li><strong>Premium Plan:</strong> Perfect for those seeking personalized advice and advanced tools.</li>
+                <li><strong>Elite Plan:</strong> Tailored for experienced investors who want to maximize their potential.</li>
+            </ul>
+        </div>
+        <div>
+            <img src="https://yourusername.github.io/yourrepository/subscription_plans.jpg" alt="Subscription Plans">
+        </div>
+    </section>
+
+    <section class="section">
+        <div>
+            <h3>Stay Ahead with Continuous Innovation</h3>
+            <p>At MyMoney Oasis, we are committed to consistently improving our platform. Look forward to cutting-edge features such as augmented reality financial simulations and blockchain-based financial services. We partner with emerging fintech companies to bring you the latest in financial technology.</p>
+        </div>
+        <div>
+            <img src="https://yourusername.github.io/yourrepository/innovation.jpg" alt="Innovation">
+        </div>
+    </section>
+
+    <section class="section">
+        <div>
+            <h3>Watch Our Marketing Video</h3>
+            <p>Experience MyMoney Oasis in action. Watch our 3-minute marketing video to see how our platform can transform your financial future.</p>
+            <a class="cta" href="https://yourusername.github.io/yourrepository/video_link">Watch Video</a>
+        </div>
+        <div>
+            <img src="https://yourusername.github.io/yourrepository/video_thumbnail.jpg" alt="Watch Video">
+        </div>
+    </section>
+
+    <section class="section">
+        <div>
+            <h3>Join Us Today</h3>
+            <p>Ready to transform your financial future? Sign up for MyMoney Oasis today and take the first step towards achieving genuine financial peace of mind.</p>
+            <a class="cta" href="https://yourusername.github.io/yourrepository/signup">Sign Up Now</a>
+        </div>
+    </section>
+</main>
+
+<footer>
+    <p>© 2024 Bank of America. All rights reserved. | <a href="https://yourusername.github.io/yourrepository/privacy" style="color: white;">Privacy Policy</a> | <a href="https://yourusername.github.io/yourrepository/terms" style="color: white;">Terms of Service</a></p>
+</footer>
+
+</body>
+</html>
